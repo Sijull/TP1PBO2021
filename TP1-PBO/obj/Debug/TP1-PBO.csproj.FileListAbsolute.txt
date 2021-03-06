@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\bin\Debug\TP1-PBO.exe.config
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\bin\Debug\TP1-PBO.exe
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\bin\Debug\TP1-PBO.pdb
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1-PBO.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1_PBO.Form1.resources
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1_PBO.Properties.Resources.resources
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1-PBO.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1-PBO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1-PBO.exe
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1-PBO.pdb
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1_PBO.Form2.resources
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1_PBO.barangku.resources
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1_PBO.produkProduku.resources
+C:\Users\user\source\repos\TP1-PBO\TP1-PBO\obj\Debug\TP1_PBO.detailForm.resources

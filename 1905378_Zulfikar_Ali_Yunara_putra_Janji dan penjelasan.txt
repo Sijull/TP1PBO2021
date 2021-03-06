@@ -1,0 +1,15 @@
+SUMPAH:
+Saya Zulfikar Ali Yunara Putra mengerjakan evaluasi TP - PBO dalam mata kuliah DPBO untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+
+=Kesulitan yang saya alami saat mengerjakan tugas TP1 ini yaitu dalam membuat list produk dan mengintegrasi setiap laman
+-hal baru yang saya pelajar adalah cara membuat user control
+-Fitur yang sudah
+	login
+	tombol web
+	tombol logout
+	main menu
+	detil barang
+
+Username: joyjoy
+Pw	: PBO123
